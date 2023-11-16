@@ -1,0 +1,12 @@
+.custom {
+    background: red;
+}
+
+@media (min-width: 767px){
+div.content {
+    width: 80%;
+}}
+
+span.pygment {
+    color: #C51D48;
+}
