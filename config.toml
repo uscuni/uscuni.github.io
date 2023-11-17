@@ -58,7 +58,22 @@ pygmentsUseClasses = true
     weight = 2
     url = "/posts/"
   [[menu.main]]
+    name = "Team"
+    identifier = "team"
+    weight = 3
+    url = "/team/"
+  [[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    weight = 4
+    url = "/projects/"
+  [[menu.main]]
+    name = "Join"
+    identifier = "join"
+    weight = 5
+    url = "/join/"
+  [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 3
+    weight = 6
     url = "/About/"
