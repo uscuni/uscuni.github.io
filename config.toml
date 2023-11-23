@@ -56,7 +56,7 @@ pygmentsUseClasses = true
     name = "News"
     identifier = "news"
     weight = 2
-    url = "/posts/"
+    url = "/news/"
   [[menu.main]]
     name = "Team"
     identifier = "team"
@@ -68,12 +68,17 @@ pygmentsUseClasses = true
     weight = 4
     url = "/projects/"
   [[menu.main]]
+    name = "Publications"
+    identifier = "publications"
+    weight = 5
+    url = "/publications/"
+  [[menu.main]]
     name = "Join"
     identifier = "join"
-    weight = 5
+    weight = 6
     url = "/join/"
   [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 6
+    weight = 7
     url = "/About/"
