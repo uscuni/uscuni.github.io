@@ -4,7 +4,7 @@ title: 'Projects'
 url: projects
 ---
 
-Ongoing projects and collaborations in the lab.
+Ongoing projects and collaborations of the group.
 
 ## Influence of Socioeconomic and Cultural Factors on Urban Structure in Central Europe
 

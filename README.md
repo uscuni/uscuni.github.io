@@ -1,2 +1,2 @@
 # luscuni.github.io
-Website of the Laboratory of Urban Structure @ CUNI
+Website of the Research Group on Urban Structure @ CUNI
