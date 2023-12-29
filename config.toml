@@ -77,8 +77,3 @@ pygmentsUseClasses = true
     identifier = "join"
     weight = 6
     url = "/join/"
-  [[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 7
-    url = "/About/"
