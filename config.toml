@@ -1,4 +1,4 @@
-baseURL = "https://rguscuni.github.io/"
+baseURL = "https://uscuni.github.io/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
@@ -36,7 +36,7 @@ pygmentsUseClasses = true
   fontFamilyHeading = "Merriweather"
   fontFamilyParagraph = "Merriweather"
   fontFamilyMonospace = "monospace"
-  logo = "rguscuni_logo.png"
+  logo = "uscuni_logo.png"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]

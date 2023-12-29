@@ -1,2 +1,2 @@
-# rguscuni.github.io
+# uscuni.github.io
 Website of the Research Group on Urban Structure @ CUNI
