@@ -3,7 +3,7 @@ title: 'Team'
 url: team
 ---
 
-Research group on Urban Structure is a small team within the Urban and Regional Laboratory at the Charles University in Prague.
+Research team on Urban Structure is a small team within the Urban and Regional Laboratory at the Charles University in Prague.
 
 This is us.
 
