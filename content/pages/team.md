@@ -7,32 +7,47 @@ Research team on Urban Structure is a small team within the Urban and Regional L
 
 This is us.
 
-## Martin Fleischmann
+<div class="split-container">
+    <div class="left-side">
+        {{< figure src="../images/martin.jpg" alt="Martin Fleischmann">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Martin Fleischmann</span> Research associate
+            <br>
+            <span class="pygment">Personal site:</span> <a href="https://martinfleischmann.net/">martinfleischmann.net</a>
+            <br>
+            <span class="pygment">GitHub:</span> <a href="https://github.com/martinfleis">@martinfleis</a>
+            <br>
+            <span class="pygment">X:</span> <a href="https://twitter.com/martinfleis">@martinfleis</a>
+            <br>
+            <span class="pygment">Mastodon:</span> <a href="https://fosstodon.org/@martinfleis">@martinfleis@fosstodon.org</a>
+        </div>
+    </div>
+</div>
 
-{{< figure src="../images/martin.png" width="200" alt="Martin Fleischmann" class="team">}}
+<div class="split-container">
+    <div class="left-side">
+        {{< figure src="../images/anna.jpg" alt="Anna Brázdová">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Anna Brázdová</span> Student
+            <br>
+            <span class="pygment">GitHub:</span> <a href="https://github.com/Kryndlea">@Kryndlea</a>
+        </div>
+    </div>
+</div>
 
-Martin is a researcher in urban morphology and spatial data science focusing on quantitative analysis and classification of cities, remote sensing, and bits of AI. While not doing the research, he writes open source software, promotes open science and helps others with their data.
-
-<span class="pygment">Personal site:</span>https://martinfleischmann.net/<br>
-<span class="pygment">GitHub:</span> [@martinfleis](https://github.com/martinfleis)<br>
-<span class="pygment">X:</span>[@martinfleis](https://twitter.com/martinfleis)<br>
-<span class="pygment">Mastodon:</span> [@martinfleis@fosstodon.org](https://fosstodon.org/@martinfleis)<br>
-
-## Anna Brázdová
-
-{{< figure src="../images/no_face.png" width="200" alt="Anna Brázdová" class="team">}}
-
-tbd
-
-<span class="pygment">Personal site:</span>tbd<br>
-<span class="pygment">GitHub:</span> tbd<br><br><br><br><br><br>
-
-## David Hořák
-
-{{< figure src="../images/no_face.png" width="200" alt="David Hořák" class="team">}}
-
-David is an external collaborator...
-
-<span class="pygment">Personal site:</span>tbd<br>
-<span class="pygment">GitHub:</span> tbd<br><br><br><br><br><br>
-
+<div class="split-container">
+    <div class="left-side">
+        {{< figure src="https://static.wixstatic.com/media/4171ac_379f4f03e9a74e88b4890334d29e7a33~mv2.jpg/v1/fill/w_546,h_634,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSCN0210_edited.jpg" alt="Anna Brázdová">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">David Hořák</span> External
+            <br>
+            <span class="pygment">Academic profile:</span> <a href="https://www.natur.cuni.cz/biology/ecology/people/david-horak?set_language=en">natur.cuni.cz</a>
+        </div>
+    </div>
+</div>

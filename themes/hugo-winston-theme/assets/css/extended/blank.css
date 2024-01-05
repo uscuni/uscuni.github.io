@@ -11,8 +11,43 @@ span.pygment {
     color: #C51D48;
 }
 
-.team {
-    /* background: red; */
-    float: inline-start;
-    padding-right: 20px;
+.split-container {
+    display: flex;
+    width: 100%;
+    margin: 40px 0
+}
+
+.left-side {
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    margin-left: 40px;
+    overflow: hidden;
+    border-radius: 50%; /* Make it a circle */
+    background-color: #C51D48;
+}
+
+.left-side img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.left-side figure {
+    margin: 0!important;
+}
+
+.right-side {
+    flex: 1;
+    box-sizing: border-box;
+    padding-left: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    font-size: xx-large;
+    color: black;
+    font-weight: 700;
+    /* line-height: 2; */
 }
