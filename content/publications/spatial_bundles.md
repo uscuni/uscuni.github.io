@@ -4,7 +4,7 @@ date: "2023-12-19"
 ---
 
 <span class="pygment">Authors:</span> Arribas-Bel, D. and Fleischmann, M.<br>
-<span class="pygment">Journal:</span> Environment and Planning B: Urban Analytics and City Science 0 (0)<br>
+<span class="pygment">Journal:</span> Environment and Planning B: Urban Analytics and City Science 51 (1)<br>
 <span class="pygment">DOI:</span> [10.1177/23998083231224151](https://doi.org/10.1177/23998083231224151)<br>
 <span class="pygment">Open Access</span>
 
