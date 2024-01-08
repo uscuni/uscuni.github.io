@@ -21,7 +21,7 @@ The salary for the position starts at 1140 EUR per month.
 <span class="pygment">Supervisors:</span> Martin Fleischmann, David Hořák<br>
 <span class="pygment">Apply by:</span> 13/3/2024<br>
 <span class="pygment">Starting date:</span> 01/10/2024<br>
-<span class="pygment">Apply via <a href="https://stars-natur.cz/phd-positions/geography/bridging-urban-morphology-and-community-ecology-to-study-structure-organisation-and-evolution-of-cities?back=qdxul">https://stars-natur.cz</a></span>
+<span class="pygment">Apply via <a href="https://stars-natur.cz/phd-positions/geography/bridging-urban-morphology-and-community-ecology-to-study-structure-organisation-and-evolution-of-cities">the STARS application portal (stars-natur.cz)</a></span>
 
 ## Inequality of neighbourhood choice in regions of Central Europe
 
@@ -39,4 +39,4 @@ The salary for the position starts at 1140 EUR per month.
 <span class="pygment">Supervisor:</span> Martin Fleischmann<br>
 <span class="pygment">Apply by:</span> 13/3/2024<br>
 <span class="pygment">Starting date:</span> 01/10/2024<br>
-<span class="pygment">Apply via <a href="https://stars-natur.cz/phd-positions/geography/inequality-of-neighbourhood-choice-in-regions-of-central-europe?back=3o0ou">https://stars-natur.cz</a></span>
+<span class="pygment">Apply via <a href="https://stars-natur.cz/phd-positions/geography/inequality-of-neighbourhood-choice-in-regions-of-central-europe">the STARS application portal (stars-natur.cz)</a></span>
