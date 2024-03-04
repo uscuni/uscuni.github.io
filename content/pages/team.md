@@ -54,6 +54,21 @@ This is us.
 
 <div class="split-container">
     <div class="left-side">
+        {{< figure src="../images/marek.png" alt="Marek Novotný">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Marek Novotný</span> Student
+            <br>
+            <span class="pygment">Github:</span> <a href="https://github.com/novotny-marek">@novotny-marek</a>
+            <br>
+            <span class="pygment">Mastodon:</span> <a href="https://mastodon.arch-linux.cz/@image">@image@mastodon.arch-linux.cz</a>
+        </div>
+    </div>
+</div>
+
+<div class="split-container">
+    <div class="left-side">
         {{< figure src="https://static.wixstatic.com/media/4171ac_379f4f03e9a74e88b4890334d29e7a33~mv2.jpg/v1/fill/w_546,h_634,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSCN0210_edited.jpg" alt="Anna Brázdová">}}
     </div>
     <div class="right-side">
