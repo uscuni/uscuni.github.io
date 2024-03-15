@@ -54,6 +54,24 @@ This is us.
 
 <div class="split-container">
     <div class="left-side">
+        {{< figure src="../images/lisa.jpeg" alt="Lisa Winkler">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Lisa Winkler</span> External Research Assistant, University of Freiburg
+            <br>
+            <span class="pygment">Personal site:</span> <a href="https://lisawinkler.co.uk/">lisawinkler.co.uk</a>
+            <br>
+            <span class="pygment">Github:</span> <a href="https://github.com/LisaOJWinkler">@LisaOJWinkler</a>
+            <br>
+            <span class="pygment">X:</span> <a href="https://twitter.com/lisa_winkler_">@lisa_winkler_</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="split-container">
+    <div class="left-side">
         {{< figure src="../images/marek.png" alt="Marek Novotný">}}
     </div>
     <div class="right-side">
