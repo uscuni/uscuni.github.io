@@ -7,8 +7,8 @@ policy and practice."
 ---
 
 We are pleased to announce that a research consortium led by Dr Martin Fleischmann has
-been awarded a grant to study the structure of cities in Europe in space and time. in
-Europe in space and time. The project, funded by the European Space Agency, will be
+been awarded a grant to study the structure of cities in Europe in space and time.
+The project, funded by the European Space Agency, will be
 carried out in collaboration with academic partners from [The Alan Turing
 Institute](https://turing.ac.uk), led by prof. Dani Arribas-Bel, and the [OECD
 Geospatial Lab](https://www.oecd.org/regional/regional-statistics/geospatial-lab.htm),
