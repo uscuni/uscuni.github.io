@@ -19,6 +19,6 @@ Planning and Development](https://iprpraha.cz/en/)) and practice
 During the 12 months of the project, the team will develop the the methodological basis
 for the development of a continental scale urban fabric classification that can be
 unfolded in time using artificial intelligence applied to Sentinel 2 satellite imagery.
-See the project anotation in the [projects](../../projects) for more details.
+See the project annotation in the [projects](../../projects) for more details.
 
 The total value of the funding is €250,000.
