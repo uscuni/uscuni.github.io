@@ -73,7 +73,17 @@ pygmentsUseClasses = true
     weight = 5
     url = "/publications/"
   [[menu.main]]
+    name = "Talks"
+    identifier = "talks"
+    weight = 6
+    url = "https://uscuni.github.io/talks/"
+  [[menu.main]]
     name = "Join"
     identifier = "join"
-    weight = 6
+    weight = 7
     url = "/join/"
+  [[menu.main]]
+    name = "GitHub"
+    identifier = "github"
+    weight = 8
+    url = "https://github.com/uscuni"
