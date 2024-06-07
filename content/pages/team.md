@@ -28,6 +28,19 @@ This is us.
 
 <div class="split-container">
     <div class="left-side">
+        {{< figure src="../images/krasen.jpeg" alt="Krasen Samardzhiev">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Krasen Samardzhiev</span> Postdoc
+            <br>
+            <span class="pygment">GitHub:</span> <a href="https://github.com/u3ks">@u3ks</a>
+        </div>
+    </div>
+</div>
+
+<div class="split-container">
+    <div class="left-side">
         {{< figure src="../images/anna.jpg" alt="Anna Brázdová">}}
     </div>
     <div class="right-side">
