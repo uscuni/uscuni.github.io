@@ -104,7 +104,7 @@ This is us.
     </div>
     <div class="right-side">
         <div>
-            <span class="name">James D. Gaboardi</span> R\&D Associate Scientist, Oak Ridge National Laboratory (external)
+            <span class="name">James D. Gaboardi</span> R&D Associate Scientist, Oak Ridge National Laboratory (external)
             <br>
             <span class="pygment">Github:</span> <a href="https://github.com/jGaboardi">@jGaboardi</a>
             <br>
