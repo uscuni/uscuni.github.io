@@ -71,7 +71,7 @@ This is us.
     </div>
     <div class="right-side">
         <div>
-            <span class="name">Lisa Winkler</span> External Research Assistant, University of Freiburg
+            <span class="name">Lisa Winkler</span> Research Assistant, University of Freiburg (external)
             <br>
             <span class="pygment">Personal site:</span> <a href="https://lisawinkler.co.uk/">lisawinkler.co.uk</a>
             <br>
@@ -94,6 +94,21 @@ This is us.
             <span class="pygment">Github:</span> <a href="https://github.com/novotny-marek">@novotny-marek</a>
             <br>
             <span class="pygment">Mastodon:</span> <a href="https://mastodon.arch-linux.cz/@image">@image@mastodon.arch-linux.cz</a>
+        </div>
+    </div>
+</div>
+
+<div class="split-container">
+    <div class="left-side">
+        {{< figure src="../images/anastasia.jpeg" alt="Anastassia Vybornova">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Anastassia Vybornova</span> PhD Fellow, IT University of Copenhagen (external)
+            <br>
+            <span class="pygment">Github:</span> <a href="https://github.com/anastassiavybornova">@anastassiavybornova</a>
+            <br>
+            <span class="pygment">LinkedIn:</span> <a href="https://www.linkedin.com/in/vybornova-anastassia/">@vybornova-anastassia</a>
         </div>
     </div>
 </div>
