@@ -19,7 +19,7 @@ This is us.
             <br>
             <span class="pygment">GitHub:</span> <a href="https://github.com/martinfleis">@martinfleis</a>
             <br>
-            <span class="pygment">X:</span> <a href="https://twitter.com/martinfleis">@martinfleis</a>
+            <span class="pygment">Bluesky:</span> <a href="https://bsky.app/profile/martinfleischmann.net">@martinfleischmann.net</a>
             <br>
             <span class="pygment">Mastodon:</span> <a href="https://fosstodon.org/@martinfleis">@martinfleis@fosstodon.org</a>
         </div>
@@ -82,6 +82,18 @@ This is us.
     </div>
 </div>
 
+<div class="split-container">
+    <div class="left-side">
+        {{< figure src="../images/hugo.jpg" alt="Hugo Miroslav Majer">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Hugo Miroslav Majer</span> PhD Student
+            <br>
+            <span class="pygment">Github:</span> <a href="https://github.com/majerhugo">@majerhugo</a>
+        </div>
+    </div>
+</div>
 
 <div class="split-container">
     <div class="left-side">
