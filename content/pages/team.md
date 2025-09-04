@@ -67,6 +67,19 @@ This is us.
 
 <div class="split-container">
     <div class="left-side">
+        {{< figure src="../images/eliska.jpg" alt="Eliška Pospěchová">}}
+    </div>
+    <div class="right-side">
+        <div>
+            <span class="name">Eliška Pospěchová</span> Student
+            <br>
+            <span class="pygment">GitHub:</span> <a href="https://github.com/elinda2703">@elinda2703</a>
+        </div>
+    </div>
+</div>
+
+<div class="split-container">
+    <div class="left-side">
         {{< figure src="../images/lisa.jpeg" alt="Lisa Winkler">}}
     </div>
     <div class="right-side">
