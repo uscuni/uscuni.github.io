@@ -1,6 +1,7 @@
 ---
 title: "Simplification of street networks"
 date: "2025-04-28"
+description: "A new package for simplification of street networks. Welcome neatnet!"
 ---
 _Cross-posted from [martinfleischmann.net](https://martinfleischmann.net/simplification-of-street-networks/)._
 
