@@ -3,7 +3,7 @@ title: "Adaptive continuity-preserving simplification of street networks"
 date: "2025-11-24"
 ---
 
-<span class="pygment">Authors:</span> Fleischmann, M., Vybornova, A., Gaboardi, J.D., Brázdová, A., Dančejová, D..<br>
+<span class="pygment">Authors:</span> Fleischmann, M., Vybornova, A., Gaboardi, J.D., Brázdová, A., Dančejová, D.<br>
 <span class="pygment">Journal:</span> Computers, Environment and Urban Systems (123)<br>
 <span class="pygment">DOI:</span> [10.5311/10.1016/j.compenvurbsys.2025.102354](https://doi.org/10.1016/j.compenvurbsys.2025.102354)<br>
 <span class="pygment">Open Access</span>
