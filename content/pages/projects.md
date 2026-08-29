@@ -4,7 +4,18 @@ title: 'Projects'
 url: projects
 ---
 
-Ongoing projects and collaborations of the team.
+Projects and collaborations of the team.
+
+## Geospatial Maintenance for Urban Social and Environmental Sciences (GeoMUSES)
+
+GeoMUSES will strengthen the Python software ecosystem used for spatial analysis in urban social and environmental research. The project will complete the transition from the unmaintained `pandana` package to its successor, `pandarm`, integrate this work with GeoPandas and PySAL, and develop practical documentation and training for users and contributors. 
+
+<span class="pygment">Duration:</span> 10/2026 -- 09/2027<br>
+<span class="pygment">Project Lead:</span> Levi John Wolf<br>
+<span class="pygment">International Project Co-Lead:</span> Martin Fleischmann<br>
+<span class="pygment">Partners:</span> University of Bristol<br>
+<span class="pygment">Funding:</span> Software Sustainability Institute<br>
+
 
 ## Influence of Socioeconomic and Cultural Factors on Urban Structure in Central Europe
 

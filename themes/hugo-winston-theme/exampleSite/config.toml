@@ -1,17 +1,14 @@
 baseURL = "/"
-languageCode = "en-us"
+locale = "en-US"
 theme = "hugo-winston-theme"
 themesDir = "themes"
 title = "Hugo Winston Theme"
-paginate = 3
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
+pagination.pagerSize = 3
 
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.55.0"
+    min = "0.165.0"
 
 [params]
   google_analytics_id = ""
@@ -39,6 +36,9 @@ pygmentsUseClasses = true
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       hardWraps = false
