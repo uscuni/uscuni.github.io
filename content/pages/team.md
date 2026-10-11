@@ -194,7 +194,7 @@ This is us.
     </div>
     <div class="right-side">
         <div>
-            <span class="name">David Hořák</span> Assistant Professor
+            <span class="name">David Hořák</span> Associate Professor
             <br>
             <span class="pygment">Academic profile:</span> <a
             href="https://www.natur.cuni.cz/biology/ecology/people/david-horak?set_language=en">natur.cuni.cz</a>
