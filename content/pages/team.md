@@ -82,7 +82,7 @@ This is us.
     </div>
     <div class="right-side">
         <div>
-            <span class="name">Marek Novotný</span> Student
+            <span class="name">Marek Novotný</span> Developer
             <br>
             <span class="pygment">Github:</span> <a
             href="https://github.com/novotny-marek">@novotny-marek</a>
