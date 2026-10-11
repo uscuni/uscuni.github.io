@@ -16,7 +16,7 @@ This is us.
     </div>
     <div class="right-side">
         <div>
-            <span class="name">Martin Fleischmann</span> Research associate
+            <span class="name">Martin Fleischmann</span> Assistant Professor
             <br>
             <span class="pygment">Personal site:</span> <a
             href="https://martinfleischmann.net/">martinfleischmann.net</a>
