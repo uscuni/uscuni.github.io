@@ -54,7 +54,7 @@ This is us.
     </div>
     <div class="right-side">
         <div>
-            <span class="name">Eliška Pospěchová</span> Student
+            <span class="name">Eliška Pospěchová</span> PhD Student
             <br>
             <span class="pygment">GitHub:</span> <a
             href="https://github.com/elinda2703">@elinda2703</a>
